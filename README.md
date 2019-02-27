@@ -1,4 +1,4 @@
-# ssim_gluon
+# Structural Similarity Index
 
 Implementation of a SSIM loss function in MXNet Gluon. Implementation is based on Po Hsun Su's PyTorch implementation of [SSIM](https://github.com/Po-Hsun-Su/pytorch-ssim). 
 
